@@ -275,35 +275,35 @@ export const  pages = [
                 modules: [
                     {
                         moduleName: "Machine Learning",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1Tj7obbOmcEVJzLuU_aIf7vWekWUPYP-H?usp=drive_link"
                     },
                     {
                         moduleName: "Data warehouse & big data",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1nXn98KtJvPeoTTnvmRCuMz9OLU8FgYi-?usp=drive_link"
                     },
                     {
                         moduleName: "Distributed databases",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1yMK64fEdypnHMsbB-s5T0r9_vXpMSSRN?usp=drive_link"
                     },
                     {
                         moduleName: "Knowledge Engineering",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1hYIBevrZHBhd5Sxe3QDZjT5fco3k8WWh?usp=drive_link"
                     },
                     {
                         moduleName: "Advanced statistics",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1DOM_AyVyeA8qygZUkRIsETnQoRw-AqE1?usp=drive_link"
                     },
                     {
                         moduleName: "Image processing base",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1ARVghJTj99qp8ozTAJSlNyOcjGqKcBxa?usp=drive_link"
                     },
                     {
                         moduleName: "Time series",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1zBnRjQyka69RrR_EGOE0Nf-mShhvKQ76?usp=drive_link"
                     },
                     {
                         moduleName: "Digital technologies in organizations ",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1PrxWyfpCe_5ddnj0oRKn5SoCltRukf1u?usp=drive_link"
                     },
                 ]
             },
