@@ -238,35 +238,35 @@ export const  pages = [
                 modules: [
                     {
                         moduleName: "Fundamentals of data science",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1ETq9qM_x3MwqTGZyNAfSr9UpCnN8Egy1?usp=drive_link"
                     },
                     {
                         moduleName: "Complexity of issues",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1GaOtGcibaZbzMuDIihnA5Rk02fGAoQn-?usp=drive_link"
                     },
                     {
                         moduleName: "Advanced databases",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1kTnznkEwsMPY4Ie4hkEdP9j8SiDr7Mdi?usp=drive_link"
                     },
                     {
                         moduleName: "Software engineering",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1R08r65OMKC8VbQpYn55y_vPQJXZQwcC5?usp=drive_link"
                     },
                     {
                         moduleName: "Cloud computing ",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1NyF0IDcslLvqJDpXmWiRU4ZwWJJOJwr_?usp=drive_link"
                     },
                     {
                         moduleName: "Project management",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1S4tLsNOXm2fuk7GlMb-MsPuJAnOVz663?usp=drive_link"
                     },
                     {
                         moduleName: "Data analysis",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/19_k8HqReLHO-jcKB18eDyRuI6r13HJ2v?usp=drive_link"
                     },
                     {
                         moduleName: "Technical English 2",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/18RTTDaxrsOR7w_aIUvADfqu3GEuBUGSl?usp=drive_link"
                     },
                 ]
             },
@@ -312,23 +312,23 @@ export const  pages = [
                 modules: [
                     {
                         moduleName: "Machine Learning",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1frWZFBScDkM6qG_019r5oVIhSMqdrp6h?usp=drive_link"
                     },
                     {
                         moduleName: "Formal methods for security",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1aKX1ybNZsoVzn8rAPIoyNEc4JdNwAllu?usp=drive_link"
                     },
                     {
                         moduleName: "Advanced Cryptography",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1xBKghrFWqLZHqC9c5Mxc-vS5cgAg-jV2?usp=drive_link"
                     },
                     {
                         moduleName: "System & network administration",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1h-9UIQphuhVueBAOAjI9ph1ENS7ou_51?usp=drive_link"
                     },
                     {
                         moduleName: "Network security",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/19uLHGgxIvv7pr-ECugrm25BQSdHwwPg0?usp=drive_link"
                     },
                     {
                         moduleName: "Operating system security",
@@ -336,11 +336,11 @@ export const  pages = [
                     },
                     {
                         moduleName: "Information systems security audit",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1N9Tk1RTQ-GWv4zEoGB7B2-deoj0_UjkN?usp=drive_link"
                     },
                     {
                         moduleName: "Biometrics",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1fDd-bycgC-JeYvlSTR_h-o59Owjetqb4?usp=drive_link"
                     },
                 ]
             },
