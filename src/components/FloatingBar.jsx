@@ -33,7 +33,7 @@ const FloatingBar = ({ currentPage, handlePageChange }) => {
             ))}
             </div>
             <span className="text-white font-medium text-sm p-2 bg-gray-900 rounded-b-xl bg-opacity-80">
-                Copyright © Abdelmalek Djemaa
+                Copyright © <a href="https://abdelmalek-djemaa.vercel.app" className="hover:text-blue-500 duration-200">Abdelmalek Djemaa</a>
             </span>
         </div>
     );
