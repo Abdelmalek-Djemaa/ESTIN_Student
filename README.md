@@ -1,5 +1,5 @@
 # ESTIN Student App
-
+![Demo Image](https://github.com/Abdelmalek-Djemaa/ESTIN_Student/blob/c59a324114e62483410aa0be96e4d98f0c1ec792/src/assets/01.jpg)
 ## About
 
 The ESTIN Student app provides students with easy access to a comprehensive library of resources tailored to their lessons, aiding in their academic success and learning journey.
