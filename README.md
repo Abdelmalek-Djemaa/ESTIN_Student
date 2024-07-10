@@ -9,12 +9,12 @@ The ESTIN Student app provides students with easy access to a comprehensive libr
 - **Comprehensive Library**: Access a wide range of resources tailored to your curriculum.
 - **User-Friendly Interface**: Navigate easily through the app with an intuitive design.
 - **Resource Categories**: Find resources categorized by subject and lesson.
-- **Search Functionality**: Quickly find the materials you need with the powerful search feature.
 - **Regular Updates**: Stay up-to-date with the latest resources and information.
 
 ## Technologies Used
 
 - **React.js**: A JavaScript library for building user interfaces.
+- **Vite**: A next-generation frontend tooling for faster and leaner development experience.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 
 ## Installation
