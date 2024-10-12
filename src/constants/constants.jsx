@@ -332,7 +332,7 @@ export const  pages = [
                     },
                     {
                         moduleName: "Operating system security",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1N9Tk1RTQ-GWv4zEoGB7B2-deoj0_UjkN?usp=drive_link"
                     },
                     {
                         moduleName: "Information systems security audit",
@@ -358,23 +358,23 @@ export const  pages = [
                     },
                     {
                         moduleName: "Reinforcement learning",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1mnOPfJdaXCp1cL73Odz1B8jejPPu1s56?usp=drive_link"
                     },
                     {
                         moduleName: "Pattern recognition for image analysis",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1V43vvznLfVpUaKbGL0b37d4oSF_FnMVK?usp=drive_link"
                     },
                     {
                         moduleName: "Automatic language processing",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/18WgrVqDnd6Ea1HCWCWGwyxy-Wa9vfeB2?usp=drive_link"
                     },
                     {
                         moduleName: "Business intelligence",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/13JuzxRMAnrBeB4wRrDpunxdRQgbfXLsr?usp=drive_link"
                     },
                     {
                         moduleName: "NoSQL databases",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1ZGEOGIlTyYBZk5q_ALo1JBARJwfR82A0?usp=drive_link"
                     },
                     {
                         moduleName: "Ethics in AI",
