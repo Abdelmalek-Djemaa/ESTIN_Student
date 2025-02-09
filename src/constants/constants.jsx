@@ -354,7 +354,7 @@ export const  pages = [
                 modules: [
                     {
                         moduleName: "Deep learning",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1DfZpxqpy5W91bt3T2eMAimvyPGUjUqS1?usp=drive_link"
                     },
                     {
                         moduleName: "Reinforcement learning",
@@ -378,7 +378,7 @@ export const  pages = [
                     },
                     {
                         moduleName: "Ethics in AI",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1nxCA38RC8u65aopmaAnw-99KpQvmxKuJ?usp=drive_link"
                     },
                 ]
             },
