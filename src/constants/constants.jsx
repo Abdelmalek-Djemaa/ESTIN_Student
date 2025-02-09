@@ -387,31 +387,31 @@ export const  pages = [
                 modules: [
                     {
                         moduleName: "Software Security",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1G6NxjO6Ns_0LM5IQ7KdKULZxAY4lfWtJ?usp=drive_link"
                     },
                     {
                         moduleName: "Infrastructure Security",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1qhGbBTCOVotSsNMyNL6A4LbJ0cNXOZKc?usp=drive_link"
                     },
                     {
                         moduleName: "Trust management",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/14B6ARyssBsJRF0MvSKgPYdUR-cRAnOsO?usp=drive_link"
                     },
                     {
                         moduleName: "Data anonymization",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1qZE6v1z-K9KL8WA4WHM-UC02SP65V-c6?usp=drive_link"
                     },
                     {
                         moduleName: "Security policies & legal aspects",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1u5Zk5-KeRvgK8vuJ3kgTUmKB1HL-NWFM?usp=drive_link"
                     },
                     {
                         moduleName: "Technique of intrusion & defense ",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/12VcMRzJhSTeo7revuTl7S7Kkj1ysDT64?usp=drive_link"
                     },
                     {
                         moduleName: "ethical hacking",
-                        link:"#"
+                        link:"https://drive.google.com/drive/folders/1ri4TZ9stsBoqipB_lCiLjDWczAB70C_l?usp=drive_link"
                     },
                 ]
             },
